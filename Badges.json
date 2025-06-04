@@ -1,0 +1,160 @@
+[
+  {
+    "id": 1,
+    "type": "custom",
+    "name": "First Moth Girl",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/first_moth_girl.png?raw=true",
+    "description": "First Moth Girl in CVR!"
+  },
+  {
+    "id": 2,
+    "type": "default",
+    "name": "Pride Rainbow",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_rainbow.png?raw=true",
+    "description": "Rainbow Pride Flag"
+  },
+  {
+    "id": 3,
+    "type": "default",
+    "name": "Trans Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_trans.png?raw=true",
+    "description": "Transgender Pride Flag"
+  },
+  {
+    "id": 4,
+    "type": "default",
+    "name": "Bisexual Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_bisexual.png?raw=true",
+    "description": "Bisexual Pride Flag"
+  },
+  {
+    "id": 5,
+    "type": "default",
+    "name": "Lesbian Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_lesbian.png?raw=true",
+    "description": "Lesbian Pride Flag"
+  },
+  {
+    "id": 6,
+    "type": "default",
+    "name": "Pansexual Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_pansexual.png?raw=true",
+    "description": "Pansexual Pride Flag"
+  },
+  {
+    "id": 7,
+    "type": "default",
+    "name": "Asexual Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_asexual.png?raw=true",
+    "description": "Asexual Pride Flag"
+  },
+  {
+    "id": 8,
+    "type": "default",
+    "name": "Non-Binary Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_nonbinary.png?raw=true",
+    "description": "Non-Binary Pride Flag"
+  },
+  {
+    "id": 9,
+    "type": "default",
+    "name": "Genderfluid Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_genderfluid.png?raw=true",
+    "description": "Genderfluid Pride Flag"
+  },
+  {
+    "id": 10,
+    "type": "default",
+    "name": "Aromantic Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_aromantic.png?raw=true",
+    "description": "Aromantic Pride Flag"
+  },
+  {
+    "id": 11,
+    "type": "default",
+    "name": "Demisexual Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_demisexual.png?raw=true",
+    "description": "Demisexual Pride Flag"
+  },
+  {
+    "id": 12,
+    "type": "default",
+    "name": "Agender Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_agender.png?raw=true",
+    "description": "Agender Pride Flag"
+  },
+  {
+    "id": 13,
+    "type": "default",
+    "name": "Polysexual Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_polysexual.png?raw=true",
+    "description": "Polysexual Pride Flag"
+  },
+  {
+    "id": 14,
+    "type": "default",
+    "name": "Omnisexual Pride",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/pride_omnisexual.png?raw=true",
+    "description": "Omnisexual Pride Flag"
+  },
+  {
+    "type": "friend_collector",
+    "name": "Friend Collector",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/friend_collector.png?raw=true",
+    "description": "Has made many friends in the community"
+  },
+  {
+    "type": "party_animal",
+    "name": "Party Animal",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/party_animal.png?raw=true",
+    "description": "Always found at the best parties"
+  },
+  {
+    "type": "night_owl",
+    "name": "Night Owl",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/night_owl.png?raw=true",
+    "description": "Active during late night hours"
+  },
+  {
+    "type": "early_bird",
+    "name": "Early Bird",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/early_bird.png?raw=true",
+    "description": "Always up bright and early"
+  },
+  {
+    "type": "music_lover",
+    "name": "Music Lover",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/music_lover.png?raw=true",
+    "description": "Passionate about music and rhythm"
+  },
+  {
+    "type": "gamer_tag",
+    "name": "Retro Gamer",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/retro_gamer.png?raw=true",
+    "description": "Loves classic and retro games"
+  },
+  {
+    "type": "meme_lord",
+    "name": "Meme Lord",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/meme_lord.png?raw=true",
+    "description": "Master of memes and internet culture"
+  },
+  {
+    "type": "wholesome",
+    "name": "Wholesome Friend",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/wholesome.png?raw=true",
+    "description": "Spreads positivity and kindness"
+  },
+  {
+    "type": "anniversary_2024",
+    "name": "2024 Anniversary",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/anniversary_2024.png?raw=true",
+    "description": "Participated in 2024 anniversary celebration"
+  },
+  {
+    "type": "custom_special",
+    "name": "Special Member",
+    "image_url": "https://github.com/YourUsername/YourRepo/blob/main/badges/special_member.png?raw=true",
+    "description": "Custom special recognition badge"
+  }
+] 
