@@ -98,63 +98,12 @@
     "description": "Omnisexual Pride Flag"
   },
   {
-    "type": "friend_collector",
-    "name": "Friend Collector",
-    "image_url": "https://github.com/STARCVR/CustomBadges/blob/main/badges/friend_collector.png?raw=true",
-    "description": "Has made many friends in the community"
-  },
-  {
-    "type": "party_animal",
-    "name": "Party Animal",
-    "image_url": "https://github.com/STARCVR/CustomBadges/blob/main/badges/party_animal.png?raw=true",
-    "description": "Always found at the best parties"
-  },
-  {
-    "type": "night_owl",
-    "name": "Night Owl",
-    "image_url": "https://github.com/STARCVR/CustomBadges/blob/main/badges/night_owl.png?raw=true",
-    "description": "Active during late night hours"
-  },
-  {
-    "type": "early_bird",
-    "name": "Early Bird",
-    "image_url": "https://github.com/STARCVR/CustomBadges/blob/main/badges/early_bird.png?raw=true",
-    "description": "Always up bright and early"
-  },
-  {
-    "type": "music_lover",
-    "name": "Music Lover",
-    "image_url": "https://github.com/STARCVR/CustomBadges/blob/main/badges/music_lover.png?raw=true",
-    "description": "Passionate about music and rhythm"
-  },
-  {
-    "type": "gamer_tag",
-    "name": "Retro Gamer",
-    "image_url": "https://github.com/STARCVR/CustomBadges/blob/main/badges/retro_gamer.png?raw=true",
-    "description": "Loves classic and retro games"
-  },
-  {
-    "type": "meme_lord",
-    "name": "Meme Lord",
-    "image_url": "https://github.com/STARCVR/CustomBadges/blob/main/badges/meme_lord.png?raw=true",
-    "description": "Master of memes and internet culture"
-  },
-  {
-    "type": "wholesome",
-    "name": "Wholesome Friend",
-    "image_url": "https://github.com/STARCVR/CustomBadges/blob/main/badges/wholesome.png?raw=true",
-    "description": "Spreads positivity and kindness"
-  },
-  {
-    "type": "anniversary_2024",
-    "name": "2024 Anniversary",
-    "image_url": "https://github.com/STARCVR/CustomBadges/blob/main/badges/anniversary_2024.png?raw=true",
-    "description": "Participated in 2024 anniversary celebration"
-  },
-  {
-    "type": "custom_special",
-    "name": "Special Member",
-    "image_url": "https://github.com/STARCVR/CustomBadges/blob/main/badges/special_member.png?raw=true",
-    "description": "Custom special recognition badge"
+    "id": 15,
+    "type": "custom",
+    "name": "DEEZ NUTS",
+    "image_url": "https://c.tenor.com/21NZ4IAfMT0AAAAd/tenor.gif",
+    "description": "sdraw funny"
   }
+
+ 
 ] 
